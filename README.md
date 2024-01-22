@@ -10,3 +10,5 @@ I absolutely adore Le Prive World Cuisine for its exceptional blend of diverse f
 - Sayaji Baug Zoo
 - Baroda Museum
 - Madvi Gate
+---
+[Link to the MyMedia](/MyMedia.md)
