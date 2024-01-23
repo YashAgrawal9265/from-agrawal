@@ -36,3 +36,16 @@ Explore the diverse world of literature, where a book awaits every reader's tast
 >"Do not be embarrassed by your failures, learn from them and start again." 
 >
 >*Dr. APJ Abdul Kalam*
+
+---
+
+# Code Fencing
+This code removes Python falsy values from a list by using the filter function.
+
+```python
+def remove_falsy(unfiltered_list):
+    return list(filter(bool, unfiltered_list)) 
+
+```
+
+Snippet source: <https://code.pieces.app/collections/python>
